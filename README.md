@@ -40,7 +40,7 @@ Bu proje kapsamında geliştirilecek olan sistem aşağıdaki bileşenleri içer
 2. Mobil uygulamanın indirilmesi gerekmektedir (geliştirme aşamasında).
 
 ## Proje Lisans Bilgileri
-Bu proje, **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](https://github.com/Emir-Karaman/EviniKesfet/blob/main/LICENSE) dosyasına bakınız.
+Bu proje, **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](https://github.com/mustafay-yilmaz/EviniKesfet/blob/main/LICENSE) dosyasına bakınız.
 
 ## Proje Anahtar Kelimeleri
 IoT, Ev Otomasyonu, Güvenlik, Enerji Verimliliği, Mobil Uygulama, Sensörler, Arduino, ESP8266, ESP32, Firebase, ThingSpeak

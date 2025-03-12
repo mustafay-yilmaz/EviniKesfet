@@ -8,7 +8,7 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 
 ## 2. Proje Hedefleri
 - Ev güvenliğini artırmak için akıllı kapı erişim sistemi oluşturmak.
-- Enerji tasarrufu sağlamak amacıyla ortam aydınlatmasını optimize etmek.
+- Enerji tasarrufu sağlamak amacıyla ortam aydınlatmasını otomatik kontrol etmek.
 - Mobil uygulama ile sistemin kontrolünü sağlamak.
 - Hareket ve sıcaklık verilerini kaydederek analiz edilebilir hale getirmek.
 
@@ -18,15 +18,14 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 | Donanım seçimi ve entegrasyonu | 2 hafta |
 | Sensör ve mikrodenetleyici programlaması | 2 hafta |
 | Mobil uygulama geliştirme | 3 hafta |
-| Veri depolama ve analiz entegrasyonu | 1 hafta |
 | Testler, Son kontroller ve teslimat| 1 hafta |
 
 ## 4. Kaynak Planlaması
 ### Ekip Üyeleri ve Görev Dağılımı
-- **Emir Karaman**: Donanım tasarımı ve entegrasyonu
-- **Furkan Yaylaz**: Mikrodenetleyici programlaması
-- **Metehan Sözenli**: Veri yönetimi ve analiz
-- **Mustafa Yüksel Yılmaz**: Mobil uygulama geliştirme
+- **Emir Karaman**: Sistem tasarımı ve haberleşme
+- **Furkan Yaylaz**: Sistem tasarımı ve haberleşme
+- **Metehan Sözenli**: Haberleşme ve mobil geliştirme
+- **Mustafa Yüksel Yılmaz**: Haberleşme ve mobil geliştirme
 
 ### Kullanılacak Ekipmanlar
 | Ekipman | Görsel |
@@ -65,4 +64,3 @@ Bu sistem, ev otomasyonu ve güvenlik sektörlerinde kullanılabilir. Potansiyel
 * **Furkan Yaylaz** - [FurkanYaylaz](https://github.com/furkanyaylaz)
 * **Metehan Sözenli** - [MetehanSözenli](https://github.com/metehansozenli)
 * **Mustafa Yüksel Yılmaz** - [MustafaYükselYılmaz](https://github.com/mustafay-yilmaz)
-
